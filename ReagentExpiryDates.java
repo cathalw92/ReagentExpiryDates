@@ -1,8 +1,8 @@
-package expirationDates;
+package expiryDates;
 
 import java.util.Scanner;
 
-public class ReagentExpirationDates {
+public class ReagentExpiryDates {
 
     @SuppressWarnings("resource")
     public static void main(String[] args) {
