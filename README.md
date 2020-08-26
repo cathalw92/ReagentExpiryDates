@@ -1,4 +1,4 @@
-## Reagent Expiry Dates
+## Reagent Expirartion Dates
 Will return the expiration date for a reagent based on user input
 
 ## Motivation
