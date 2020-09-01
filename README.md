@@ -6,3 +6,9 @@ I wanted my first Java project to be based off a real world problem. As a chemis
 
 ## Build status
 Still in progress, more reagents to be added. Will imporve code as I improve
+
+## Current Reagents
+THF, Acetonitrile, Acetone, Mobile Phase A, Seal Wash, SST2.
+
+## Run Instructions
+Runs in ECLIPSE, import using import wizard. 
