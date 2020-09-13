@@ -11,7 +11,7 @@ public class ReagentExpirationDates {
         // asks user for reagent name
         System.out.println("Enter reagent name");
         while (true) {
-            // calls reagent method based on
+            // calls reagent method based on name
             String reagent = scanner.nextLine();
             switch (reagent) {
             case "THF":
